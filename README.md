@@ -15,5 +15,7 @@ The Task Tracker is a simple and intuitive web application that allows users to 
 
 💻 Technologies Used
 HTML – For structuring the web page
+
 CSS – For styling and responsive design
+
 JavaScript – For interactive functionality and dynamic DOM manipulation
